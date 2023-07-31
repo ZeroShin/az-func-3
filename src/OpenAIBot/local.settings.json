@@ -1,0 +1,12 @@
+{
+    "IsEncrypted": false,
+    "Values": {
+        "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+        "FUNCTIONS_WORKER_RUNTIME": "dotnet-isolated",
+
+        "AOAI_Endpoint": "https://aoai-common-eus.openai.azure.com/",
+        "AOAI_ApiKey": "a6d19c5c9b6f432a9da934476d3adaba",
+        "AOAI_DeploymentId": "model-gpt35turbo16k",
+        "AOAI_ApiVersion": "2023-06-01-preview"
+    }
+}
